@@ -149,7 +149,8 @@ int main(void)
  
 ![image](https://github.com/user-attachments/assets/99b5bf81-706a-4b22-a1dd-8bb1350a34e4)
 
-## DUTY CYCLE AND FREQUENCY CALCULATION 
+## DUTY CYCLE AND FREQUENCY CALCULATION
+
 FOR PULSE AT 500
 
 TON = 0.34 ms
